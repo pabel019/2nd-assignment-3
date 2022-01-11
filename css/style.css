@@ -100,7 +100,6 @@
                     .company {
                         position: absolute;
                         left: 92px;
-                        background: ;
                     }
                     
                     .form-group select {
@@ -113,8 +112,6 @@
                         font-size: 14px;
                         color: #666;
                     }
-                    
-                    .options {}
                     
                     .increase {
                         width: 80px;
